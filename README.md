@@ -11,9 +11,9 @@ The code requires the following Python packages:
 - Matplotlib
 - PyPSA, PyPSA-Eur
 - Pyomo
-- PyPower
+- PyPower with IPOPT
 - Atlite
-- IPOPT
+
 
 ## Datasets Requirements
 The following table lists the key data sources used in this study:
