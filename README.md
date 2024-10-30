@@ -4,16 +4,8 @@
 This code repository contains the implementation and analysis for the study of heatwave effects on European electricity grids. As climate change increases the frequency, intensity, and duration of heatwaves, it is crucial to understand their impact on electricity grids to enhance societal security and resilience.
 
 ## Package Requirements
-The code requires the following Python packages:
-- NumPy 1.25.2
-- SciPy 1.10.1
-- Pandas 2.0.3
-- Matplotlib 3.5.3
-- pypsa 0.25.1
-- atlite 0.2.11
-- Pyomo 6.6.1
-- PyPower 5.1.16
-- PyPop7 0.0.81
+- The code requires Python packages in requirements.txt
+- Solver requirement: IPOPT (https://coin-or.github.io/Ipopt/INSTALL.html)
 
 
 
