@@ -1,12 +1,12 @@
 # Heatwave Impact on European Electricity Grids
 
 ## Overview
-This code repository contains the implementation and analysis for the study of [heatwave](https://climate.copernicus.eu/heatwaves-brief-introduction) effects on European electricity grids. As climate change increases the frequency, intensity, and duration of heatwaves, it is crucial to understand their impact on electricity grids to enhance societal security and resilience.
+This code repository contains the implementation and analysis for the study of [HEATWAVE](https://climate.copernicus.eu/heatwaves-brief-introduction) effects on European electricity grids. As climate change increases the frequency, intensity, and duration of heatwaves, it is crucial to understand their impact on electricity grids to enhance societal security and resilience.
 
 <center>
 <figure>
-  <img src="/images/temperature.png" width="600" />
-  <figcaption>European air temperature anomalies (<a href="https://climate.copernicus.eu/european-heatwave-july-2023-longer-term-context">Source</a>)</figcaption>
+  <img src="/images/temperature.png" width="700" />
+  <figcaption>European air temperature anomalies (<a href="https://climate.copernicus.eu/european-heatwave-july-2023-longer-term-context">source</a>)</figcaption>
 </figure>
 </center>
 
