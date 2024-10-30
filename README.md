@@ -38,6 +38,7 @@ The methodology employed in this study includes the following key components:
 - **Multi-Segment Modeling:** It models the transmission line at segmented levels to identify localized stress points and potential bottlenecks.
 - **Optimal Power Flow Analysis:** It integrates these components to simulate the grid's response under thermal and demand stresses, revealing potential capacity bottlenecks and load shedding regions.
 
+
 ## Demos
 The code contains the following demos for the Methodology:
 - Heatwave generation based on morphing approach
