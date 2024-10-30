@@ -34,7 +34,7 @@ The methodology employed in this study includes the following key components:
 
 
 ## Demos
-The code contains the following demos for the Methodology:
+The code contains the following [demos](/demos/) for the Methodology:
 1. Heatwave generation based on morphing approach
 2. Demand calibration based on demand.ninja
 3. Heat balance equation calculation and visualization
