@@ -1,7 +1,15 @@
 # Heatwave Impact on European Electricity Grids
 
 ## Overview
-This code repository contains the implementation and analysis for the study of heatwave effects on European electricity grids. As climate change increases the frequency, intensity, and duration of heatwaves, it is crucial to understand their impact on electricity grids to enhance societal security and resilience.
+This code repository contains the implementation and analysis for the study of [heatwave](https://climate.copernicus.eu/heatwaves-brief-introduction) effects on European electricity grids. As climate change increases the frequency, intensity, and duration of heatwaves, it is crucial to understand their impact on electricity grids to enhance societal security and resilience.
+
+<center>
+<figure>
+  <img src="/images/temperature.png" width="600" />
+  <figcaption>European air temperature anomalies (<a href="https://climate.copernicus.eu/european-heatwave-july-2023-longer-term-context">Source</a>)</figcaption>
+</figure>
+</center>
+
 
 ## Package Requirements
 - The code requires Python packages in [requirements.txt](/requirements.txt)
@@ -22,7 +30,7 @@ The following table lists the key data sources used in this study:
 | [Atlite](https://github.com/PyPSA/atlite) | Open-source model for renewable generation calculation |
 
 ## Methodology
-![Alt text](framework.png)
+![Alt text](/images/framework.png)
 The methodology employed in this study includes the following key components:
 
 - **Future Heatwave Projection:** It generates projected heatwave events from 2025 to 2050 based on historical heatwaves from 2019 and 2022.
