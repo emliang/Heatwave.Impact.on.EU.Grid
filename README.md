@@ -10,8 +10,8 @@ The code requires the following Python packages:
 - Pandas
 - Matplotlib
 - PyPSA, PyPSA-Eur
-- Pyomo
-- PyPower with IPOPT
+- Pyomo with IPOPT
+- PyPower 
 - Atlite
 
 
