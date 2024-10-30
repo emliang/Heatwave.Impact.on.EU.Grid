@@ -5,7 +5,7 @@ This code repository contains the implementation and analysis for the study of h
 
 ## Package Requirements
 - The code requires Python packages in requirements.txt
-- Solver requirement: IPOPT (https://coin-or.github.io/Ipopt/INSTALL.html)
+- Solver requirement: IPOPT 3.14.16 (https://coin-or.github.io/Ipopt/INSTALL.html)
 
 
 
