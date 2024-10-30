@@ -22,6 +22,7 @@ The following table lists the key data sources used in this study:
 | [Atlite](https://github.com/PyPSA/atlite) | Open-source model for renewable generation calculation |
 
 ## Methodology
+![Alt text](framework.png)
 The methodology employed in this study includes the following key components:
 
 - **Future Heatwave Projection:** It generates projected heatwave events from 2025 to 2050 based on historical heatwaves from 2019 and 2022.
