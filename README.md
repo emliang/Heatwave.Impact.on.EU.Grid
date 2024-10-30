@@ -43,7 +43,7 @@ The code contains the following demos for the Methodology:
 - Heatwave generation based on morphing approach
 - Demand calibration based on demand.ninja
 - Heat balance equation calculation and visualization
-- ACOPF/TD-ACOPF-quad/TD-ACOPF-iter solving by IPOPF + Pyomo
+- ACOPF/TD-ACOPF-quad/TD-ACOPF-iter solving by IPOPT + Pyomo
 - A country-level analysis based on the Datasets 
 
 
