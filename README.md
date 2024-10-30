@@ -5,15 +5,16 @@ This code repository contains the implementation and analysis for the study of h
 
 ## Package Requirements
 The code requires the following Python packages:
-- NumPy
-- SciPy
-- Pandas
-- Matplotlib
-- PyPSA, PyPSA-Eur
-- Pyomo with IPOPT
-- PyPower 
-- PyPop7
-- Atlite
+- NumPy 1.25.2
+- SciPy 1.10.1
+- Pandas 2.0.3
+- Matplotlib 3.5.3
+- pypsa 0.25.1
+- atlite 0.2.11
+- Pyomo 6.6.1
+- PyPower 5.1.16
+- PyPop7 0.0.81
+
 
 
 ## Datasets Requirements
@@ -41,11 +42,13 @@ The methodology employed in this study includes the following key components:
 
 ## Demos
 The code contains the following demos for the Methodology:
-- Heatwave generation based on morphing approach
-- Demand calibration based on demand.ninja
-- Heat balance equation calculation and visualization
-- ACOPF/TD-ACOPF-quad/TD-ACOPF-iter solving by IPOPT + Pyomo
-- A country-level analysis based on the Datasets 
+1. Heatwave generation based on morphing approach
+2. Demand calibration based on demand.ninja
+3. Heat balance equation calculation and visualization
+4. ACOPF/TD-ACOPF-quad/TD-ACOPF-iter solving by IPOPT + Pyomo
+5. A country-level analysis based on the proposed methodology
 
+## Liscence
+CC-BY-4.0
 
 
