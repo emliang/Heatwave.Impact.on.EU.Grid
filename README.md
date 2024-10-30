@@ -12,6 +12,7 @@ The code requires the following Python packages:
 - PyPSA, PyPSA-Eur
 - Pyomo with IPOPT
 - PyPower 
+- PyPop7
 - Atlite
 
 
