@@ -3,6 +3,7 @@ scipy==1.10.1
 pandas==2.0.3
 matplotlib==3.5.3
 pypsa==0.25.1
+pypsa-eur==0.10.0
 atlite==0.2.11
 pyomo==6.6.1
 pypower==5.1.16
